@@ -1,0 +1,24 @@
+{
+  "name": "tds",
+  "version": "0.0.0",
+  "description": "blank",
+  "main": "./src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjirap/tds.git"
+  },
+  "author": "gjirap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gjirap/tds/issues"
+  },
+  "homepage": "https://github.com/gjirap/tds#readme",
+  "devDependencies": {
+    "ts-loader": "^4.4.2",
+    "typescript": "^2.9.2",
+    "webpack": "^4.16.1"
+  }
+}
